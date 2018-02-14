@@ -1,224 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c6aff0c-4b60-423d-8aa2-29eb695bede1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Workspace.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+    <list default="true" id="fc874f96-db48-4c61-9528-f57160aacacd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter_1_Task_10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Chapter_1_Task_10/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter_1_Task_10/out/production/Chapter_1_Task_10/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_02/Task_U_NumberEqual/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_02/Task_U_NumberEqual/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/Task_2936.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/out/production/Task_2936/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2936/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937/Task_2937.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937/out/production/Task_2937/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/Task_2937_2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/out/production/Task_2937_2/com/company/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2937_2/src/com/company/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/Task_2938.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/out/production/Task_2938/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/out/production/Task_2938/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/out/production/Task_2938/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/src/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938/src/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/Task_2938_2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/out/production/Task_2938_2/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2938_2/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/Task_2939_2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/out/production/Task_2939_2/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2939_2/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2940_MKAD_2/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2940_MKAD_2/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2940_MKAD_2/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2940_MKAD_2/Task_2940_MKAD_2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2940_MKAD_2/out/production/Task_2940_MKAD_2/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2940_MKAD_2/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2942_number_of_ten/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2942_number_of_ten/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2942_number_of_ten/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2942_number_of_ten/Task_2942_number_of_ten.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2942_number_of_ten/out/production/Task_2942_number_of_ten/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2942_number_of_ten/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2943/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2943/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2943/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2943/Task_2943.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2943/out/production/Task_2943/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2943/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2944_sum_of_digits/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2944_sum_of_digits/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2944_sum_of_digits/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2944_sum_of_digits/Task_2944_sum_of_digits.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2944_sum_of_digits/out/production/Task_2944_sum_of_digits/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2944_sum_of_digits/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2945_next_even/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2945_next_even/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2945_next_even/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2945_next_even/Task_2945_next_even.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2945_next_even/out/production/Task_2945_next_even/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2945_next_even/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947/Task_2947.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947_2/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947_2/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947_2/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947_2/Task_2947_2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947_2/out/production/Task_2947_2/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2947_2/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/Task_2948_clock_sec.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/out/production/Task_2948_clock_sec/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/out/production/Task_2948_clock_sec/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/out/production/Task_2948_clock_sec/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/src/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_sec/src/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/Task_2948_clock_withoutIF.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/out/production/Task_2948_clock_withoutIF/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2948_clock_withoutIF/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2949_change_meaning/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2949_change_meaning/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2949_change_meaning/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2949_change_meaning/Task_2949_change_meaning.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2949_change_meaning/out/production/Task_2949_change_meaning/Mian.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2949_change_meaning/src/Mian.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/Task_2950_The_End.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/out/production/Task_2950_The_End/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/out/production/Task_2950_The_End/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2950_The_End/src/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2951_price/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2951_price/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2951_price/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2951_price/Task_2951_price.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2951_price/out/production/Task_2951_price/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2951_price/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2952_dif_time/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2952_dif_time/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2952_dif_time/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2952_dif_time/Task_2952_dif_time.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2952_dif_time/out/production/Task_2952_dif_time/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2952_dif_time/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2953_auto_race/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2953_auto_race/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2953_auto_race/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2953_auto_race/Task_2953_auto_race.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2953_auto_race/out/production/Task_2953_auto_race/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2953_auto_race/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2954_apple/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2954_apple/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2954_apple/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2954_apple/Task_2954_apple.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2954_apple/out/production/Task_2954_apple/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2954_apple/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/Task_2955_Ulitka.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/out/production/Task_2955_Ulitka/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2955_Ulitka/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/Task_2956.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/out/production/Task_2956/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2956/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/.idea/description.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/.idea/project-template.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/Task_2957.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/out/production/Task_2957/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2957/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2958/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2958/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2958/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2958/Task_2958.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2958/out/production/Task_2958/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_2958/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/Task_Gipotenuza_2936.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/out/production/Task_Gipotenuza_2936/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/out/production/Task_Gipotenuza_2936/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/out/production/Task_Gipotenuza_2936/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/src/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_Gipotenuza_2936/src/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_LastNumeral_2941/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_LastNumeral_2941/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_LastNumeral_2941/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_LastNumeral_2941/Task_LastNumeral_2941.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_LastNumeral_2941/out/production/Task_LastNumeral_2941/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_LastNumeral_2941/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/Task_MKAD_2949.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/out/production/Task_MKAD_2949/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/out/production/Task_MKAD_2949/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/out/production/Task_MKAD_2949/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/src/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_MKAD_2949/src/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/Task_apple_2939.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/out/production/Task_apple_2939/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/out/production/Task_apple_2939/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/out/production/Task_apple_2939/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/src/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Task_apple_2939/src/output.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -226,20 +11,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_1_task_1_2/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -255,7 +26,6 @@
     <option name="width" value="1356" />
     <option name="height" value="971" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -271,7 +41,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,36 +48,20 @@
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_1_task_1_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_1_task_1_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,7 +84,6 @@
       <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -345,7 +97,6 @@
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -372,7 +123,6 @@
       <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -413,42 +163,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c6aff0c-4b60-423d-8aa2-29eb695bede1" name="Default" comment="" />
-      <created>1518528887032</created>
+      <changelist id="fc874f96-db48-4c61-9528-f57160aacacd" name="Default" comment="" />
+      <created>1518585242647</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1518528887032</updated>
+      <updated>1518585242647</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="544" y="3" width="1356" height="971" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -458,75 +204,8 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_1_task_1_2/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_1_task_1_2/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_1_task_1_2/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_1_task_1_2/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_1_task_1_2/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice_03_Task_03/src/Main.java" />
-  </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -541,18 +220,6 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Workspace</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
