@@ -5,22 +5,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int n = scanner.nextInt();
-
-        int x, y, z, a, b, c, px, py, pz;
-
-        x = 1;
-        y = 10;
-        z = 60;
-        px = 15;
-        py = 125;
-        pz = 440;
+        int a, b, c;
         a = b = c = 0;
 
-        int sum = 0;
-        int k = 0;
-
-
-        a = b = c = 0;
 
         c = n/60;
         int ost1 = n - n/60*60;

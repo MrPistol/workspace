@@ -5,10 +5,12 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int k = scanner.nextInt();
 
-        if ((k%3 == 0 || k%5 == 0 || k%3%5 == 0 || k%5%3 == 0 || k%(5 + 3)%3 == 0 || k%(5 + 3)%5 == 0) && k > 0) {
-            System.out.println("YES");
-        } else {
+
+        if (k == 2 || k == 1 || k == 4 || k == 7) {
             System.out.println("NO");
+        } else {
+            System.out.println("YES");
+
         }
     }
 }
