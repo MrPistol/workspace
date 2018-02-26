@@ -10,7 +10,10 @@ public class Main {
         xB = scanner.nextInt();
         yB = scanner.nextInt();
 
-        if (Math.abs(xA - xB) == 2 && Math.abs(yA - yB) == 1 ||Math.abs(xA - xB) == 1 && Math.abs(yA - yB) == 2  ){
+        if (
+                Math.abs(xA - xB) == 2 && Math.abs(yA - yB) == 1 ||
+                Math.abs(xA - xB) == 1 && Math.abs(yA - yB) == 2
+                ){
             answer = "YES";
         }
         System.out.print(answer);

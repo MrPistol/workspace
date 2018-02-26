@@ -9,10 +9,10 @@ public class Main {
         if (a == 0 && b == 0) {
             System.out.println("INF");
 
-        } else if (a == 0 || b == 0 || b%a != 0) {
+        } else if (a == 0 || b%a != 0) {
             System.out.println("NO");
 
-        } else if (b%a == 0) {
+        } else  {
             System.out.println(-b/a);
 
         }

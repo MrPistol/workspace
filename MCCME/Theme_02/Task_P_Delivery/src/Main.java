@@ -16,7 +16,7 @@ public class Main {
             e = c - a;
         } else if (d < b && c >= a) {
             f = 100 + d - b;
-            e = c - 1 - a;
+            e = --c - a;
         }
         System.out.println(e + " " + f);
     }
