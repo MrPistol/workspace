@@ -6,29 +6,32 @@ import java.util.*;
 public class GraphicsTemplate extends JFrame {
 
     String title = "Graphics Template";
-    Color background = Color.BLACK;
+    Color background = Color.black;
 
     void draw(Graphics2D g2) {
-        int count = 0;
-        int width = getWidth();
+        int stepX = 100;
+        int y = 100;
+        int bottomY = getHeight() - 100;
         int height = getHeight();
+        int width = getWidth();
+        int randRed = 150;
 
-        while (count < 300) {
+        for (int i = 0; i < 11; ++i) {
 
-            int randX = (int) (Math.random()*(width - 100));
-            int randY = (int) (Math.random()*(height - 100));
-            int randDiameter = (int) (5 + Math.random()*100);
-            int randRed = (int) (0 + Math.random()*255);
-            int randGreen = (int) (0 + Math.random()*255);
-            int randBlue = (int) (0 + Math.random()*255);
-            int randAlpha = (int) (90 + Math.random()*100);
-
-
-            g2.setColor(new Color(randRed, randGreen, randBlue, randAlpha));
-            g2.fillOval(randX, randY, randDiameter, randDiameter);
-
-            ++count;
+            while (randRed < 230) {
+                ++randRed;
+                ++stepX;
+            g2.setColor(new Color(randRed, 0, 0));
+            g2.drawLine(stepX, y, stepX, bottomY);
+            }
+            while (randRed > 150) {
+                --randRed;
+                ++stepX;
+                g2.setColor(new Color(randRed, 0, 0));
+                g2.drawLine(stepX, y, stepX, bottomY);
+            }
         }
+
     }
 
     public GraphicsTemplate() {
@@ -76,3 +79,4 @@ public class GraphicsTemplate extends JFrame {
     }
 
 }
+

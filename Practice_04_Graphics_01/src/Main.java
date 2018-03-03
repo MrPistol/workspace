@@ -1,37 +1,41 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import java.util.*;
 
-public class GraphicsTemplate extends JFrame {
+public class Main extends JFrame {
 
     String title = "Graphics Template";
-    Color background = Color.BLACK;
+    Color background = Color.black;
 
     void draw(Graphics2D g2) {
-        int count = 0;
         int width = getWidth();
         int height = getHeight();
+        int centrX = width/2;
+        int centrY = height/2;
+        int minHeightWidth = Math.min(centrX, centrY);
 
-        while (count < 300) {
+        final int RAND_RED_MIN = 0;
+        final int RAND_RED_MAX = 255;
+        int alpha = 0;
+        int radiusMax = minHeightWidth;
+        int radiusMin = minHeightWidth/2;
+        for (int i = 0; i < 500; ++i) {
+            int randRadius = (int) (radiusMin + Math.random()*(radiusMax - radiusMin + 1));
+            int x = (int) (centrX + Math.cos(Math.toRadians(alpha))*randRadius);
+            int y = (int) (centrY + Math.sin(Math.toRadians(alpha))*randRadius);
 
-            int randX = (int) (Math.random()*(width - 100));
-            int randY = (int) (Math.random()*(height - 100));
-            int randDiameter = (int) (5 + Math.random()*100);
-            int randRed = (int) (0 + Math.random()*255);
-            int randGreen = (int) (0 + Math.random()*255);
-            int randBlue = (int) (0 + Math.random()*255);
-            int randAlpha = (int) (90 + Math.random()*100);
 
+            int randRed = (int) (RAND_RED_MIN + Math.random()*(RAND_RED_MAX - RAND_RED_MIN + 1));
+            ++alpha;
+            g2.setColor(new Color(randRed, 0, 0));
+            g2.drawLine(centrX, centrY, x, y);
 
-            g2.setColor(new Color(randRed, randGreen, randBlue, randAlpha));
-            g2.fillOval(randX, randY, randDiameter, randDiameter);
-
-            ++count;
         }
+
+
     }
 
-    public GraphicsTemplate() {
+    public Main() {
         setTitle(title);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -51,7 +55,7 @@ public class GraphicsTemplate extends JFrame {
     }
 
     public static void main(String[] args) {
-        new GraphicsTemplate();
+        new Main();
     }
 
     class DrawPanel extends JPanel {
@@ -76,3 +80,4 @@ public class GraphicsTemplate extends JFrame {
     }
 
 }
+

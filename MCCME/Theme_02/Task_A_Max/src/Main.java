@@ -5,12 +5,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        if (a>b){
-            System.out.print(a);
-        } else if(a<b){
-            System.out.print(b);
-        } else {
-            System.out.print(a);
-        }
+        if (a > b) System.out.print(a);
+        else if (a < b) System.out.print(b);
+        else System.out.print(a);
     }
 }
