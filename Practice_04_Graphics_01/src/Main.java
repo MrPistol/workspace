@@ -18,7 +18,7 @@ public class Main extends JFrame {
         final int RAND_RED_MAX = 255;
         int alpha = 0;
         int radiusMax = minHeightWidth;
-        int radiusMin = minHeightWidth/2;
+        double radiusMin = minHeightWidth*0.1;
         for (int i = 0; i < 500; ++i) {
             int randRadius = (int) (radiusMin + Math.random()*(radiusMax - radiusMin + 1));
             int x = (int) (centrX + Math.cos(Math.toRadians(alpha))*randRadius);

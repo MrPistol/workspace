@@ -18,11 +18,10 @@ public class Main extends JFrame {
         int startY = (height - minSide + margin)/2;
 
 
-
         for (int k = 0; k < N; ++k) {
             for (int i = 0; i < N; ++i) {
 
-                if ((i+k)%2 == 0) {
+                if ((i + k)%2 == 0) {
                     g2.setColor(Color.black);
                 } else {
                     g2.setColor(Color.yellow);
@@ -36,6 +35,7 @@ public class Main extends JFrame {
         }
 
     }
+
 
 
     public Main() {

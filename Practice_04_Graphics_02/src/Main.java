@@ -14,9 +14,6 @@ public class Main extends JFrame {
         final int RADIUS_MIN = 50;
         final int RAND_COLOR_MIN = 0;
         final int RAND_COLOR_MAX = 255;
-        int randRed = 0;
-        int randGreen = 0;
-        int randBlue = 0;
         int alpha = 0;
 
         for (int k = 0; k < 35; ++k) {
@@ -34,17 +31,15 @@ public class Main extends JFrame {
                 int randColorNumber = (int) (RAND_COLOR_MIN + Math.random()*(RAND_COLOR_MAX - RAND_COLOR_MIN + 1));
                 int randAlpha = (int) (95 + Math.random()*6);
 
+                int randRed = 0;
+                int randGreen = 0;
+                int randBlue = 0;
+
                 if (k%3 == 0) {
                     randRed = randColorNumber;
-                    randGreen = 0;
-                    randBlue = 0;
                 } else if (k%3 == 1) {
-                    randRed = 0;
                     randGreen = randColorNumber;
-                    randBlue = 0;
                 } else if (k%3 == 2) {
-                    randRed = 0;
-                    randGreen = 0;
                     randBlue = randColorNumber;
                 }
 
