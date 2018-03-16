@@ -5,15 +5,18 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         long x = scanner.nextLong();
-        long divider = 1;
+
         int numbers = 0;
 
 
-        while (divider <= x && x <= 2*10e9) {
+        for (long divider = 1, end = (int) Math.sqrt(x); divider <= end; ++divider) {
             if (x%divider == 0) {
-                ++numbers;
+                if (x/divider == divider)
+                    ++numbers;
+                else
+                    numbers += 2;
             }
-            ++divider;
+
         }
         System.out.print(numbers);
 
