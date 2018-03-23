@@ -13,7 +13,7 @@ public class GraphicsTemplate extends JFrame {
         int width = getWidth();
         int height = getHeight();
 
-        while (count < 300) {
+        while (count < 10) {
 
             int randX = (int) (Math.random()*(width - 100));
             int randY = (int) (Math.random()*(height - 100));
@@ -28,7 +28,17 @@ public class GraphicsTemplate extends JFrame {
             g2.fillOval(randX, randY, randDiameter, randDiameter);
 
             ++count;
+
+
         }
+
+    //    repaint();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
     }
 
     public GraphicsTemplate() {

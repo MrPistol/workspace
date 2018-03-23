@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc874f96-db48-4c61-9528-f57160aacacd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_C_MinAndMaxDigits/.idea/misc.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_C_MinAndMaxDigits/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_C_MinAndMaxDigits/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_C_MinAndMaxDigits/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_C_MinAndMaxDigits/Task_C_MinAndMaxDigits.iml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_C_MinAndMaxDigits/Task_C_MinAndMaxDigits.iml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_H_NumberDividers/.idea/misc.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_H_NumberDividers/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_H_NumberDividers/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_H_NumberDividers/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/.idea/misc.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/Task_I_NumberOfDividers.iml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/Task_I_NumberOfDividers.iml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/out/production/Task_I_NumberOfDividers/Main.class" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/out/production/Task_I_NumberOfDividers/Main.class" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/src/Main.java" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_I_NumberOfDividers/src/Main.java" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_S_GNPE_1/.idea/misc.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_S_GNPE_1/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_S_GNPE_1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_S_GNPE_1/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MCCME/Theme_03/Task_S_GNPE_1/Task_S_GNPE_1.iml" afterPath="$PROJECT_DIR$/MCCME/Theme_03/Task_S_GNPE_1/Task_S_GNPE_1.iml" />
-      <change beforePath="$PROJECT_DIR$/Practice_04_Graphics_05/.idea/misc.xml" afterPath="$PROJECT_DIR$/Practice_04_Graphics_05/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/Practice_04_Graphics_05/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Practice_04_Graphics_05/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="fc874f96-db48-4c61-9528-f57160aacacd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice_01_Task_04/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice_06_Task_01/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,17 +82,12 @@
             <path>
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="MCCME" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice_06_Task_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice_01_Task_04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice_01_Task_04" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice_06_Task_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -240,6 +228,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -248,7 +237,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35647058" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3021739" sideWeight="0.49481866" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3021739" sideWeight="0.49481866" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21908316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -470,6 +459,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice_06_Task_01/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
